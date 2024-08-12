@@ -10,6 +10,10 @@ This list is a collection of tools, projects, images, and resources conforming t
 
 Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
+## Open Geoscience
+
+- [omfvista](https://github.com/OpenGeoVis/omfvista) - 3D visualization for the Open Mining Format (omf)
+
 ## pointcloud
 
 - [pyntcloud](https://github.com/daavoo/pyntcloud) - pyntcloud is a Python library for working with 3D point clouds.
