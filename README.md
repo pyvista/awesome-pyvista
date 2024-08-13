@@ -10,6 +10,17 @@ This list is a collection of tools, projects, images, and resources conforming t
 
 Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
+## Contents
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Open Geoscience](#open-geoscience)
+- [pointcloud](#pointcloud)
+- [Related Topics](#related-topics)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Open Geoscience
 
 - [omfvista](https://github.com/OpenGeoVis/omfvista) - 3D visualization for the Open Mining Format (omf)
