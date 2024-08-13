@@ -24,7 +24,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Astronomy
 
-- [sunkit-pyvista](https://github.com/sunpy/sunkit-pyvista) - 3D visualisation of solar phsyics data with pyvista.
+- [sunkit-pyvista](https://github.com/sunpy/sunkit-pyvista) - 3D visualisation of solar physics data with pyvista.
 
 ## Open Geoscience
 
