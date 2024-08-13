@@ -6,6 +6,8 @@
     <img src="https://github.com/pyvista/pyvista/blob/main/doc/source/_static/pyvista_logo_sm.png" alt="pyvista_logo_sm" width="500"/>
 </p>
 
+PyVista is a library that provides 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK).
+
 This list is a collection of tools, projects, images, and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
 
 Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
