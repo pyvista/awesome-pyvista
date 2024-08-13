@@ -21,6 +21,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Astronomy
+
+- [sunkit-pyvista](https://github.com/sunpy/sunkit-pyvista) - 3D visualisation of solar phsyics data with pyvista.
+
 ## Open Geoscience
 
 - [omfvista](https://github.com/OpenGeoVis/omfvista) - 3D visualization for the Open Mining Format (omf)
