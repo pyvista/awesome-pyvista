@@ -14,12 +14,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Awesome PyVista *](#awesome-pyvista-)
-  - [Open Geoscience](#open-geoscience)
-  - [pointcloud](#pointcloud)
-  - [Related Topics](#related-topics)
+- [Open Geoscience](#open-geoscience)
+- [pointcloud](#pointcloud)
+- [Related Topics](#related-topics)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
