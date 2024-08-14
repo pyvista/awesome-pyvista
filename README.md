@@ -33,6 +33,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [sunkit-pyvista](https://github.com/sunpy/sunkit-pyvista) - 3D visualisation of solar physics data with pyvista.
 
+## Geometry
+
+- [pyminiply](https://github.com/pyvista/pyminiply) - Wrapper over the excellent and fast miniply to read PLY files.
+
 ## Open Geoscience
 
 - [omfvista](https://github.com/OpenGeoVis/omfvista) - 3D visualization for the Open Mining Format (omf)
