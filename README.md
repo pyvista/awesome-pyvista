@@ -17,12 +17,17 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [Official](#official)
 - [Astronomy](#astronomy)
 - [Open Geoscience](#open-geoscience)
 - [pointcloud](#pointcloud)
 - [Related Topics](#related-topics)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Official
+
+- [Tutorial](https://github.com/pyvista/pyvista-tutorial) - PyVista SciPy 2022-2024 Tutorial
 
 ## Astronomy
 
