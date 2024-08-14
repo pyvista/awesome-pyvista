@@ -19,6 +19,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [Official](#official)
 - [Astronomy](#astronomy)
+- [Geometry](#geometry)
 - [Open Geoscience](#open-geoscience)
 - [pointcloud](#pointcloud)
 - [Related Topics](#related-topics)
@@ -32,6 +33,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Astronomy
 
 - [sunkit-pyvista](https://github.com/sunpy/sunkit-pyvista) - 3D visualisation of solar physics data with pyvista.
+
+## Geometry
+
+- [pyminiply](https://github.com/pyvista/pyminiply) - Wrapper over the excellent and fast miniply to read PLY files.
 
 ## Open Geoscience
 
