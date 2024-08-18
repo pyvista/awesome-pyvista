@@ -34,6 +34,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [sunkit-pyvista](https://github.com/sunpy/sunkit-pyvista) - 3D visualisation of solar physics data with pyvista.
 
+## Finite Elements
+
+- [felupe](https://github.com/adtzlr/felupe) - 🔍 finite element analysis for continuum mechanics of solid bodies.
+
 ## Geometry
 
 - [pyminiply](https://github.com/pyvista/pyminiply) - Wrapper over the excellent and fast miniply to read PLY files.
