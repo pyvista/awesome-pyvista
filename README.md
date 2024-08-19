@@ -19,6 +19,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [Official](#official)
 - [Astronomy](#astronomy)
+- [Finite Elements](#finite-elements)
 - [Geometry](#geometry)
 - [Open Geoscience](#open-geoscience)
 - [pointcloud](#pointcloud)
