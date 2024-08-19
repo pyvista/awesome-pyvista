@@ -34,6 +34,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [sunkit-pyvista](https://github.com/sunpy/sunkit-pyvista) - 3D visualisation of solar physics data with pyvista.
 
+## Finite Elements
+
+- [scikit-gmsh](https://github.com/pyvista/scikit-gmsh) - Scikit for Gmsh to generate 3D finite element mesh.
+
 ## Geometry
 
 - [pyminiply](https://github.com/pyvista/pyminiply) - Wrapper over the excellent and fast miniply to read PLY files.
