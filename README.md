@@ -19,6 +19,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [Official](#official)
 - [Astronomy](#astronomy)
+- [Finite Elements](#finite-elements)
 - [Geometry](#geometry)
 - [Open Geoscience](#open-geoscience)
 - [pointcloud](#pointcloud)
@@ -33,6 +34,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Astronomy
 
 - [sunkit-pyvista](https://github.com/sunpy/sunkit-pyvista) - 3D visualisation of solar physics data with pyvista.
+
+## Finite Elements
+
+- [FElupe](https://github.com/adtzlr/felupe) - 🔍 finite element analysis for continuum mechanics of solid bodies.
 
 ## Geometry
 
