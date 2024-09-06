@@ -37,10 +37,12 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Finite Elements
 
+- [FElupe](https://github.com/adtzlr/felupe) - 🔍 finite element analysis for continuum mechanics of solid bodies.
 - [scikit-gmsh](https://github.com/pyvista/scikit-gmsh) - Scikit for Gmsh to generate 3D finite element mesh.
 
 ## Geometry
 
+- [GeoVista](https://github.com/bjlittle/geovista) - Cartographic rendering and mesh analytics powered by PyVista.
 - [pyminiply](https://github.com/pyvista/pyminiply) - Wrapper over the excellent and fast miniply to read PLY files.
 
 ## Open Geoscience
