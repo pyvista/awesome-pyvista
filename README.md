@@ -27,10 +27,6 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Official
-
-- [Tutorial](https://github.com/pyvista/pyvista-tutorial) - PyVista SciPy 2022-2024 Tutorial
-
 ## Astronomy
 
 - [sunkit-pyvista](https://github.com/sunpy/sunkit-pyvista) - 3D visualisation of solar physics data with pyvista.
@@ -43,6 +39,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [GeoVista](https://github.com/bjlittle/geovista) - Cartographic rendering and mesh analytics powered by PyVista.
 - [pyminiply](https://github.com/pyvista/pyminiply) - Wrapper over the excellent and fast miniply to read PLY files.
+
+## Official
+
+- [Tutorial](https://github.com/pyvista/pyvista-tutorial) - PyVista SciPy 2022-2024 Tutorial
 
 ## Open Geoscience
 
