@@ -17,10 +17,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Official](#official)
 - [Astronomy](#astronomy)
 - [Finite Elements](#finite-elements)
 - [Geometry](#geometry)
+- [Official](#official)
 - [Open Geoscience](#open-geoscience)
 - [pointcloud](#pointcloud)
 - [Related Topics](#related-topics)
@@ -54,5 +54,5 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Related Topics
 
-- [Awesome VTK](https://github.com/tkoyama010/awesome-vtk) - A curated list of awesome stuff related to VTK 😎. ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 - [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) - Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome. ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+- [Awesome VTK](https://github.com/tkoyama010/awesome-vtk) - A curated list of awesome stuff related to VTK 😎. ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
