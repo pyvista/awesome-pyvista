@@ -39,6 +39,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [GeoVista](https://github.com/bjlittle/geovista) - Cartographic rendering and mesh analytics powered by PyVista.
 - [pyminiply](https://github.com/pyvista/pyminiply) - Wrapper over the excellent and fast miniply to read PLY files.
+- [HyperCoast](https://github.com/opengeos/HyperCoast) - A Python Package for Visualizing and Analyzing Hyperspectral Data in Coastal Environments.
 
 ## Official
 
