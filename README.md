@@ -19,6 +19,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [Astronomy](#astronomy)
 - [Finite Elements](#finite-elements)
+- [Finite/Control Volume Method](#finitecontrol-volume-method)
 - [Geometry](#geometry)
 - [Official](#official)
 - [Open Geoscience](#open-geoscience)
@@ -34,6 +35,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Finite Elements
 
 - [FElupe](https://github.com/adtzlr/felupe) - 🔍 finite element analysis for continuum mechanics of solid bodies.
+
+## Finite/Control Volume Method
+
+- [Building3D](https://github.com/krzysztofarendt/building3d) - Towards 3D building physics modeling.
 
 ## Geometry
 
