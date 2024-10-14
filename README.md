@@ -19,6 +19,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [Astronomy](#astronomy)
 - [Finite Elements](#finite-elements)
+- [Finite/Control Volume Method](#finitecontrol-volume-method)
 - [Geometry](#geometry)
 - [Official](#official)
 - [Open Geoscience](#open-geoscience)
