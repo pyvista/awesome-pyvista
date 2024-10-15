@@ -43,6 +43,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Official
 
 - [Tutorial](https://github.com/pyvista/pyvista-tutorial) - PyVista SciPy 2022-2024 Tutorial
+- [panel-pyvista](https://github.com/pyvista/panel-pyvista) - Demonstrate using PyVista, Trame, and Panel in a SPA.
 
 ## Open Geoscience
 
