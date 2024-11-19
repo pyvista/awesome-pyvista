@@ -29,31 +29,31 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Astronomy
 
-- [sunkit-pyvista](https://github.com/sunpy/sunkit-pyvista) - 3D visualisation of solar physics data with pyvista.
+- [sunkit-pyvista](https://github.com/sunpy/sunkit-pyvista) – 3D visualisation of solar physics data with pyvista.
 
 ## Finite Elements
 
-- [FElupe](https://github.com/adtzlr/felupe) - 🔍 finite element analysis for continuum mechanics of solid bodies.
-- [scikit-gmsh](https://github.com/pyvista/scikit-gmsh) - Scikit for Gmsh to generate 3D finite element mesh.
+- [FElupe](https://github.com/adtzlr/felupe) – 🔍 finite element analysis for continuum mechanics of solid bodies.
+- [scikit-gmsh](https://github.com/pyvista/scikit-gmsh) – Scikit for Gmsh to generate 3D finite element mesh.
 
 ## Geometry
 
-- [GeoVista](https://github.com/bjlittle/geovista) - Cartographic rendering and mesh analytics powered by PyVista.
-- [pyminiply](https://github.com/pyvista/pyminiply) - Wrapper over the excellent and fast miniply to read PLY files.
+- [GeoVista](https://github.com/bjlittle/geovista) – Cartographic rendering and mesh analytics powered by PyVista.
+- [pyminiply](https://github.com/pyvista/pyminiply) – Wrapper over the excellent and fast miniply to read PLY files.
 
 ## Official
 
-- [Tutorial](https://github.com/pyvista/pyvista-tutorial) - PyVista SciPy 2022-2024 Tutorial
+- [Tutorial](https://github.com/pyvista/pyvista-tutorial) – PyVista SciPy 2022-2024 Tutorial
 
 ## Open Geoscience
 
-- [omfvista](https://github.com/OpenGeoVis/omfvista) - 3D visualization for the Open Mining Format (omf)
+- [omfvista](https://github.com/OpenGeoVis/omfvista) – 3D visualization for the Open Mining Format (omf)
 
 ## pointcloud
 
-- [pyntcloud](https://github.com/daavoo/pyntcloud) - pyntcloud is a Python library for working with 3D point clouds.
+- [pyntcloud](https://github.com/daavoo/pyntcloud) – pyntcloud is a Python library for working with 3D point clouds.
 
 ## Related Topics
 
-- [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) - Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome. ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-- [Awesome VTK](https://github.com/tkoyama010/awesome-vtk) - A curated list of awesome stuff related to VTK 😎. ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+- [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) – Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome. ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+- [Awesome VTK](https://github.com/tkoyama010/awesome-vtk) – A curated list of awesome stuff related to VTK 😎. ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
