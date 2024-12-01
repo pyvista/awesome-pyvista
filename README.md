@@ -24,6 +24,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Open Geoscience](#open-geoscience)
 - [pointcloud](#pointcloud)
 - [Related Topics](#related-topics)
+- [Tutorial](#tutorial)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
