@@ -56,3 +56,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) – Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome. ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 - [Awesome VTK](https://github.com/tkoyama010/awesome-vtk) – A curated list of awesome stuff related to VTK 😎. ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+
+## Tutorial
+
+[Tutorial to convert geospatial data (Shapefile) to 3D data (VTK) with Python, Geopandas & Pyvista](https://hatarilabs.com/ih-en/tutorial-to-convert-geospatial-data-shapefile-to-3d-data-vtk-with-python-geopandas-pyvista)
