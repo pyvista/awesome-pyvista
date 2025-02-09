@@ -34,6 +34,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Finite Elements
 
 - [FElupe](https://github.com/adtzlr/felupe) – 🔍 finite element analysis for continuum mechanics of solid bodies.
+- [vfo (Visualization For OpenSees)](https://github.com/u-anurag/vfo) - Visualization For OpenSees.
 
 ## Geometry
 
