@@ -3,7 +3,7 @@
 > A curated list of awesome stuff related to PyVista.
 
 <p align="center">
-    <img src="https://github.com/pyvista/pyvista/blob/main/doc/source/_static/pyvista_logo_sm.png" alt="pyvista_logo_sm" width="500"/>
+    <img src="https://github.com/pyvista/pyvista/blob/main/doc/source/_static/pyvista_logo.svg" alt="pyvista_logo_sm" width="500"/>
 </p>
 
 PyVista is a library that provides 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK).
