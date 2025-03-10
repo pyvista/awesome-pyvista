@@ -4,7 +4,7 @@ ci:
   autoupdate_schedule: weekly
 repos:
   - repo: https://github.com/python-jsonschema/check-jsonschema
-    rev: 0.31.2
+    rev: 0.31.3
     hooks:
       - id: check-github-workflows
   - repo: https://github.com/codespell-project/codespell
@@ -13,7 +13,7 @@ repos:
       - id: codespell
         args: ["-L", "socio-economic"]
   - repo: https://github.com/rbubley/mirrors-prettier
-    rev: v3.5.2
+    rev: v3.5.3
     hooks:
       - id: prettier
         types_or: [yaml, markdown, html, css, scss, javascript, json]
@@ -47,7 +47,7 @@ repos:
         language: python
         files: README.md
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.9.7
+    rev: v0.9.10
     hooks:
       - id: ruff
         args: [--fix]
@@ -59,6 +59,6 @@ repos:
         # See options: https://taplo.tamasfe.dev/configuration/formatter-options.html
         args: [--option, "reorder_arrays=true", --option, "reorder_keys=true"]
   - repo: https://github.com/woodruffw/zizmor-pre-commit
-    rev: v1.3.1
+    rev: v1.4.1
     hooks:
       - id: zizmor
