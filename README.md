@@ -24,7 +24,6 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Astronomy](#astronomy)
-- [Contributors ✨](#contributors-)
 - [Finite Elements](#finite-elements)
 - [Geometry](#geometry)
 - [Official](#official)
@@ -63,5 +62,3 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) – Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome.
 - [Awesome VTK](https://github.com/tkoyama010/awesome-vtk) – A curated list of awesome stuff related to VTK 😎.
-
-
