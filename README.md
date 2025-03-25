@@ -39,6 +39,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Finite Elements
 
+- [EasyFEA](https://github.com/matnoel/EasyFEA) – EasyFEA is a user-friendly Python library that simplifies finite element analysis.
 - [FElupe](https://github.com/adtzlr/felupe) – 🔍 finite element analysis for continuum mechanics of solid bodies.
 
 ## Geometry
