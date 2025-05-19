@@ -12,11 +12,11 @@ jobs:
       issues: read
       repository-projects: read
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@85e6279cec87321a52edac9c87bce653a07cf6c2
         with:
           persist-credentials: false
       - name: Set up Ruby 2.6
-        uses: ruby/setup-ruby@v1
+        uses: ruby/setup-ruby@cb0fda56a307b8c78d38320cd40d9eb22a3bf04e
         with:
           ruby-version: 2.6.10
       - name: Checks
