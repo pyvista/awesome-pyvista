@@ -39,7 +39,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Finite Elements
 
-- [FElupe](https://github.com/adtzlr/felupe) – 🔍 finite element analysis for continuum mechanics of solid bodies.
+- [FElupe](https://github.com/adtzlr/felupe) –  finite element analysis for continuum mechanics of solid bodies.
 
 ## Geometry
 
@@ -61,4 +61,4 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Related Topics
 
 - [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) – Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome.
-- [Awesome VTK](https://github.com/tkoyama010/awesome-vtk) – A curated list of awesome stuff related to VTK 😎.
+- [Awesome VTK](https://github.com/tkoyama010/awesome-vtk) – A curated list of awesome stuff related to VTK .
