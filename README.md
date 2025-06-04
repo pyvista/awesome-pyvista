@@ -37,6 +37,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [sunkit-pyvista](https://github.com/sunpy/sunkit-pyvista) – 3D visualisation of solar physics data with pyvista.
 
+## Anisotropy
+
+- [VectoRose](https://github.com/bzrudski/vectorose) – Python package for producing spherical histograms.
+
 ## Finite Elements
 
 - [FElupe](https://github.com/adtzlr/felupe) – finite element analysis for continuum mechanics of solid bodies.
