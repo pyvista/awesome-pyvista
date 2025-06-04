@@ -1,9 +1,15 @@
 # Awesome PyVista [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 > A curated list of awesome stuff related to PyVista.
 
 <p align="center">
-    <img src="https://github.com/pyvista/pyvista/blob/main/doc/source/_static/pyvista_logo_sm.png" alt="pyvista_logo_sm" width="500"/>
+    <img src="https://github.com/pyvista/pyvista/blob/main/doc/source/_static/pyvista_logo.svg" alt="pyvista_logo_sm" width="500"/>
 </p>
 
 PyVista is a library that provides 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK).
@@ -17,6 +23,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [Anisotropy](#anisotropy)
 - [Astronomy](#astronomy)
 - [Finite Elements](#finite-elements)
 - [Geometry](#geometry)
@@ -27,13 +34,17 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Anisotropy
+
+- [VectoRose](https://github.com/bzrudski/vectorose) – Python package for producing spherical histograms.
+
 ## Astronomy
 
 - [sunkit-pyvista](https://github.com/sunpy/sunkit-pyvista) – 3D visualisation of solar physics data with pyvista.
 
 ## Finite Elements
 
-- [FElupe](https://github.com/adtzlr/felupe) – 🔍 finite element analysis for continuum mechanics of solid bodies.
+- [FElupe](https://github.com/adtzlr/felupe) – finite element analysis for continuum mechanics of solid bodies.
 - [vfo (Visualization For OpenSees)](https://github.com/u-anurag/vfo) - Visualization For OpenSees.
 
 ## Geometry
@@ -55,5 +66,5 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 ## Related Topics
 
-- [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) – Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome. ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-- [Awesome VTK](https://github.com/tkoyama010/awesome-vtk) – A curated list of awesome stuff related to VTK 😎. ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+- [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) – Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome.
+- [Awesome VTK](https://github.com/tkoyama010/awesome-vtk) – A curated list of awesome stuff related to VTK .
