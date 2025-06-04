@@ -23,6 +23,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [Anisotropy](#anisotropy)
 - [Astronomy](#astronomy)
 - [Finite Elements](#finite-elements)
 - [Geometry](#geometry)
@@ -32,6 +33,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Related Topics](#related-topics)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Anisotropy
+
+- [VectoRose](https://github.com/bzrudski/vectorose) – Python package for producing spherical histograms.
 
 ## Astronomy
 
