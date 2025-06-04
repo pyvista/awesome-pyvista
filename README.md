@@ -34,13 +34,13 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Astronomy
-
-- [sunkit-pyvista](https://github.com/sunpy/sunkit-pyvista) – 3D visualisation of solar physics data with pyvista.
-
 ## Anisotropy
 
 - [VectoRose](https://github.com/bzrudski/vectorose) – Python package for producing spherical histograms.
+
+## Astronomy
+
+- [sunkit-pyvista](https://github.com/sunpy/sunkit-pyvista) – 3D visualisation of solar physics data with pyvista.
 
 ## Finite Elements
 
