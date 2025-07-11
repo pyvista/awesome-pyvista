@@ -26,6 +26,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Anisotropy](#anisotropy)
 - [Astronomy](#astronomy)
 - [Finite Elements](#finite-elements)
+- [Finite/Control Volume Method](#finitecontrol-volume-method)
 - [Geometry](#geometry)
 - [Official](#official)
 - [Open Geoscience](#open-geoscience)
@@ -46,6 +47,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [FElupe](https://github.com/adtzlr/felupe) – finite element analysis for continuum mechanics of solid bodies.
 - [vfo (Visualization For OpenSees)](https://github.com/u-anurag/vfo) - Visualization For OpenSees.
+
+## Finite/Control Volume Method
+
+- [Building3D](https://github.com/krzysztofarendt/building3d) - Towards 3D building physics modeling.
 
 ## Geometry
 
