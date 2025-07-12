@@ -1,4 +1,4 @@
-# Awesome PyVista [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome PyVista [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
@@ -46,7 +46,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [FElupe](https://github.com/adtzlr/felupe) – finite element analysis for continuum mechanics of solid bodies.
 - [fenics-sz](https://github.com/cianwilson/fenics-sz) – Jupyter Book for modeling subduction zones using FEniCSx finite element library.
-- [scikit-topt](https://github.com/kevin-tofu/scikit-topt) – lightweight Python library for topology optimization using finite element analysis.
+- [scikit-topt](https://github.com/kevin-tofu/scikit-topt) – Scikit Topology Optimization with Scipy.
 - [vfo (Visualization For OpenSees)](https://github.com/u-anurag/vfo) - Visualization For OpenSees.
 
 ## Geometry
