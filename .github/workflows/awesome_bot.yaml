@@ -16,7 +16,7 @@ jobs:
         with:
           persist-credentials: false
       - name: Set up Ruby 2.6
-        uses: ruby/setup-ruby@a9bfc2ecf3dd40734a9418f89a7e9d484c32b990
+        uses: ruby/setup-ruby@2a7b30092b0caf9c046252510f9273b4875f3db9
         with:
           ruby-version: 2.6.10
       - name: Checks
