@@ -46,6 +46,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [FElupe](https://github.com/adtzlr/felupe) – finite element analysis for continuum mechanics of solid bodies.
 - [fenics-sz](https://github.com/cianwilson/fenics-sz) – Jupyter Book for modeling subduction zones using FEniCSx finite element library.
+- [scikit-topt](https://github.com/kevin-tofu/scikit-topt) – Scikit Topology Optimization with Scipy.
 - [vfo (Visualization For OpenSees)](https://github.com/u-anurag/vfo) - Visualization For OpenSees.
 
 ## Geometry
