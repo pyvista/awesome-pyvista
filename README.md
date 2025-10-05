@@ -66,6 +66,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [pyntcloud](https://github.com/daavoo/pyntcloud) – pyntcloud is a Python library for working with 3D point clouds.
 
+## Animation
+
+- [trajectory-visualizer](https://github.com/SalihErenYzb/Trajectory-Visualizer) – Tool for visualizing vehicle trajectories over a high-resolution, textured 3D model of the Earth.
+
 ## Related Topics
 
 - [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) – Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome.
