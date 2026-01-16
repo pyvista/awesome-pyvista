@@ -8,3 +8,5 @@ updates:
     labels:
       - "maintenance"
       - "dependencies"
+    cooldown:
+      default-days: 7
