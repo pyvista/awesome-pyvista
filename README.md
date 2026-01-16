@@ -35,6 +35,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Animation
+
+- [trajectory-visualizer](https://github.com/SalihErenYzb/Trajectory-Visualizer) – Tool for visualizing vehicle trajectories over a high-resolution, textured 3D model of the Earth.
+
 ## Anisotropy
 
 - [VectoRose](https://github.com/bzrudski/vectorose) – Python package for producing spherical histograms.
@@ -66,10 +70,6 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## pointcloud
 
 - [pyntcloud](https://github.com/daavoo/pyntcloud) – pyntcloud is a Python library for working with 3D point clouds.
-
-## Animation
-
-- [trajectory-visualizer](https://github.com/SalihErenYzb/Trajectory-Visualizer) – Tool for visualizing vehicle trajectories over a high-resolution, textured 3D model of the Earth.
 
 ## Related Topics
 
