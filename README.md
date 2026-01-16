@@ -23,6 +23,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [Animation](#animation)
 - [Anisotropy](#anisotropy)
 - [Astronomy](#astronomy)
 - [Finite Elements](#finite-elements)
@@ -33,6 +34,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Related Topics](#related-topics)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Animation
+
+- [trajectory-visualizer](https://github.com/SalihErenYzb/Trajectory-Visualizer) – Tool for visualizing vehicle trajectories over a high-resolution, textured 3D model of the Earth.
 
 ## Anisotropy
 
