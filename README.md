@@ -23,6 +23,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Anisotropy](#anisotropy)
 - [Astronomy](#astronomy)
 - [Finite Elements](#finite-elements)
+- [Finite/Control Volume Method](#finitecontrol-volume-method)
 - [Geometry](#geometry)
 - [Official](#official)
 - [Open Geoscience](#open-geoscience)
@@ -49,6 +50,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [fenics-sz](https://github.com/cianwilson/fenics-sz) – Jupyter Book for modeling subduction zones using FEniCSx finite element library.
 - [scikit-topt](https://github.com/kevin-tofu/scikit-topt) – Scikit Topology Optimization with Scipy.
 - [vfo (Visualization For OpenSees)](https://github.com/u-anurag/vfo) - Visualization For OpenSees.
+
+## Finite/Control Volume Method
+
+- [Building3D](https://github.com/krzysztofarendt/building3d) - Towards 3D building physics modeling.
 
 ## Geometry
 
