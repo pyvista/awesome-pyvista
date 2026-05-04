@@ -67,6 +67,11 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [scikit-topt](https://github.com/kevin-tofu/scikit-topt) – Scikit Topology Optimization with Scipy.
 - [vfo (Visualization For OpenSees)](https://github.com/u-anurag/vfo) - Visualization For OpenSees.
 
+## Geoscience / Geospatial
+
+- [GeoVista](https://github.com/bjlittle/geovista) – Cartographic rendering and mesh analytics powered by PyVista.
+- [omfvista](https://github.com/OpenGeoVis/omfvista) – 3D visualization for the Open Mining Format (omf).
+
 ## GUI & Applications
 
 - [pyvista-gui](https://github.com/pyvista/pyvista-gui) – A graphical user interface built atop PyVista.
@@ -90,11 +95,6 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [pymeshfix](https://github.com/pyvista/pymeshfix) – Python wrapper for MeshFix: easily repair holes in surface meshes.
 - [pyvista-manifold](https://github.com/pyvista/pyvista-manifold) – PyVista accessor for Manifold providing fast and reliable boolean / CSG operations.
 - [pyvista-trimesh](https://github.com/pyvista/pyvista-trimesh) – PyVista accessor for Trimesh exposing point-in-mesh, signed distance, proximity, surface sampling, voxelization, ICP, repair, and smoothing as `mesh.trimesh.<op>`.
-
-## Geoscience / Geospatial
-
-- [GeoVista](https://github.com/bjlittle/geovista) – Cartographic rendering and mesh analytics powered by PyVista.
-- [omfvista](https://github.com/OpenGeoVis/omfvista) – 3D visualization for the Open Mining Format (omf).
 
 ## Point Clouds
 
