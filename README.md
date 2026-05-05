@@ -28,6 +28,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [Geoscience / Geospatial](#geoscience--geospatial)
 - [GUI & Applications](#gui--applications)
 - [Learning Resources](#learning-resources)
+- [Medical & Neuroscience](#medical--neuroscience)
 - [Mesh Generation](#mesh-generation)
 - [Mesh Processing](#mesh-processing)
 - [Point Clouds](#point-clouds)
@@ -64,23 +65,32 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [FElupe](https://github.com/adtzlr/felupe) – finite element analysis for continuum mechanics of solid bodies.
 - [fenics-sz](https://github.com/cianwilson/fenics-sz) – Jupyter Book for modeling subduction zones using FEniCSx finite element library.
+- [PyMAPDL](https://github.com/ansys/pymapdl) – Pythonic interface to Ansys MAPDL for finite element analysis.
 - [scikit-topt](https://github.com/kevin-tofu/scikit-topt) – Scikit Topology Optimization with Scipy.
 - [vfo (Visualization For OpenSees)](https://github.com/u-anurag/vfo) - Visualization For OpenSees.
 
 ## Geoscience / Geospatial
 
+- [discretize](https://github.com/simpeg/discretize) – Discretization tools for finite volume and inverse problems (SimPEG).
+- [GemPy](https://github.com/cgre-aachen/gempy) – 3D structural geological modeling.
 - [GeoVista](https://github.com/bjlittle/geovista) – Cartographic rendering and mesh analytics powered by PyVista.
-- [omfvista](https://github.com/OpenGeoVis/omfvista) – 3D visualization for the Open Mining Format (omf).
+- [omfvista](https://github.com/pyvista/omfvista) – 3D visualization for the Open Mining Format (omf).
+- [pyGIMLi](https://github.com/gimli-org/gimli) – Geophysical inversion and modeling library.
 
 ## GUI & Applications
 
 - [pyvista-gui](https://github.com/pyvista/pyvista-gui) – A graphical user interface built atop PyVista.
+- [pyvista-tui](https://github.com/pyvista/pyvista-tui) – PyVista in the terminal.
 - [pyvistaqt-exe](https://github.com/pyvista/pyvistaqt-exe) – Create a Windows installable exe from a PyVistaQt application.
 - [pyvistaqt](https://github.com/pyvista/pyvistaqt) – Qt support for PyVista.
 
 ## Learning Resources
 
 - [Tutorial](https://github.com/pyvista/pyvista-tutorial) – PyVista SciPy 2022-2025 Tutorial.
+
+## Medical & Neuroscience
+
+- [MNE-Python](https://github.com/mne-tools/mne-python) – MEG/EEG analysis and visualization with a PyVista 3D backend.
 
 ## Mesh Generation
 
