@@ -103,6 +103,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [fast-simplification](https://github.com/pyvista/fast-simplification) – Fast quadratic mesh simplification.
 - [pyacvd](https://github.com/pyvista/pyacvd) – Python implementation of the ACVD surface mesh resampling algorithm for uniform remeshing.
 - [pymeshfix](https://github.com/pyvista/pymeshfix) – Python wrapper for MeshFix: easily repair holes in surface meshes.
+- [pyransame](https://github.com/MatthewFlamm/pyransame) – Random sampling of points on PyVista meshes (cells, surfaces, and volumes).
 - [pyvista-manifold](https://github.com/pyvista/pyvista-manifold) – PyVista accessor for Manifold providing fast and reliable boolean / CSG operations.
 - [pyvista-trimesh](https://github.com/pyvista/pyvista-trimesh) – PyVista accessor for Trimesh exposing point-in-mesh, signed distance, proximity, surface sampling, voxelization, ICP, repair, and smoothing as `mesh.trimesh.<op>`.
 
