@@ -101,6 +101,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Mesh Processing
 
 - [fast-simplification](https://github.com/pyvista/fast-simplification) – Fast quadratic mesh simplification.
+- [mmgpy](https://github.com/kmarchais/mmgpy) – PyVista accessor for MMG providing 2D, 3D, and surface anisotropic remeshing, mesh adaptation, and quality optimization as `mesh.mmg.<op>`.
 - [pyacvd](https://github.com/pyvista/pyacvd) – Python implementation of the ACVD surface mesh resampling algorithm for uniform remeshing.
 - [pymeshfix](https://github.com/pyvista/pymeshfix) – Python wrapper for MeshFix: easily repair holes in surface meshes.
 - [pyransame](https://github.com/MatthewFlamm/pyransame) – Random sampling of points on PyVista meshes (cells, surfaces, and volumes).
