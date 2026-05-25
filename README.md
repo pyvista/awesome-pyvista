@@ -75,6 +75,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 - [discretize](https://github.com/simpeg/discretize) – Discretization tools for finite volume and inverse problems (SimPEG).
 - [GemPy](https://github.com/cgre-aachen/gempy) – 3D structural geological modeling.
 - [GeoVista](https://github.com/bjlittle/geovista) – Cartographic rendering and mesh analytics powered by PyVista.
+- [HyperCoast](https://github.com/opengeos/HyperCoast) – A Python package for visualizing and analyzing hyperspectral data in coastal environments.
 - [omfvista](https://github.com/pyvista/omfvista) – 3D visualization for the Open Mining Format (omf).
 - [pyGIMLi](https://github.com/gimli-org/gimli) – Geophysical inversion and modeling library.
 
