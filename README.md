@@ -12,7 +12,7 @@ PyVista is a library that provides 3D plotting and mesh analysis through a strea
 
 This list is a collection of tools, projects, images, and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
 
-Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
+Contributions _very welcome_; please keep submissions aligned with the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
 
 ## Contents
 
