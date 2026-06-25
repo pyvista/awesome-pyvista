@@ -12,6 +12,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://pre-commit.ci"><img src="https://avatars.githubusercontent.com/u/64617429?v=4?s=100" width="100px;" alt="pre-commit.ci"/><br /><sub><b>pre-commit.ci</b></sub></a><br /><a href="#maintenance-pre-commit-ci" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SalihErenYzb"><img src="https://avatars.githubusercontent.com/u/128384160?v=4?s=100" width="100px;" alt="SalihErenYzb"/><br /><sub><b>SalihErenYzb</b></sub></a><br /><a href="https://github.com/pyvista/awesome-pyvista/commits?author=SalihErenYzb" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://cameronurban.com"><img src="https://avatars.githubusercontent.com/u/26682141?v=4?s=100" width="100px;" alt="Cameron Urban"/><br /><sub><b>Cameron Urban</b></sub></a><br /><a href="https://github.com/pyvista/awesome-pyvista/issues?q=author%3AcamUrban" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/beanscg"><img src="https://avatars.githubusercontent.com/u/287763725?v=4?s=100" width="100px;" alt="beanscg"/><br /><sub><b>beanscg</b></sub></a><br /><a href="#mentoring-beanscg" title="Mentoring">🧑‍🏫</a></td>
     </tr>
   </tbody>
 </table>
