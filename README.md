@@ -25,7 +25,7 @@ Contributions _very welcome_; please keep submissions aligned with the [Awesome 
 	<br>
 	<b>CoDim is where teams explore 3D data together.</b>
 	<div>
-	<sub>Render massive 3D datasets in the cloud and share live scenes by link from any browser — no downloads, no screenshots. Annotate, review in real time, and embed the viewer straight into your product. <a href="https://codimensional.com/">See CoDim.</a></sub>
+	<sub>Render massive 3D datasets in the cloud and share live scenes by link from any browser — no downloads, no screenshots. Annotate, review in real time, and embed the viewer straight into your product. See CoDim above.</sub>
 	</div>
 </div>
 
