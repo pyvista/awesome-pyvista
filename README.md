@@ -10,9 +10,9 @@
 
 PyVista is a library that provides 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK).
 
-This list is a collection of tools, projects, images, and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
+This list is a collection of tools, projects, images, and resources conforming to the [Awesome Manifesto](awesome-manifesto)
 
-Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
+Contributions _very welcome_; please keep submissions aligned with the [Awesome Manifesto](awesome-manifesto).
 
 ## Contents
 
@@ -127,3 +127,5 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 - [pyvista-fastapi-webapp](https://github.com/pyvista/pyvista-fastapi-webapp) – Demo FastAPI and Three.js application using PyVista.
 - [trame-pyvista](https://github.com/pyvista/trame-pyvista) - Use PyVista with Trame web applications
+
+[awesome-manifesto]: https://github.com/sindresorhus/awesome/blob/main/awesome.md
