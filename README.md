@@ -14,6 +14,23 @@ This list is a collection of tools, projects, images, and resources conforming t
 
 Contributions _very welcome_; please keep submissions aligned with the [Awesome Manifesto](awesome-manifesto).
 
+---
+
+<div align="center">
+	<sub>PyVista is proudly supported by our commercial steward CoDimensional PBC:</sub>
+	<br>
+	<br>
+	<a href="https://codimensional.com/"><img width="400" src="assets/codim.png" alt="CoDim logo"></a>
+	<br>
+	<br>
+	<b>CoDim is where teams explore 3D data together.</b>
+	<div>
+	<sub>Render massive 3D datasets in the cloud and share live scenes by link from any browser — no downloads, no screenshots. Annotate, review in real time, and embed the viewer straight into your product. See CoDim above.</sub>
+	</div>
+</div>
+
+---
+
 ## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
