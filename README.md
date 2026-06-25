@@ -19,6 +19,7 @@ Contributions _very welcome_; please keep submissions aligned with the [Awesome 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [Aerodynamics](#aerodynamics)
 - [Animation](#animation)
 - [Anisotropy](#anisotropy)
 - [Astronomy](#astronomy)
@@ -37,6 +38,10 @@ Contributions _very welcome_; please keep submissions aligned with the [Awesome 
 - [Web](#web)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Aerodynamics
+
+- [Ptera Software](https://github.com/camUrban/PteraSoftware) – Tool for analyzing flapping-wing flight.
 
 ## Animation
 
