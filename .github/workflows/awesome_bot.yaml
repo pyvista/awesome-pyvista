@@ -19,7 +19,6 @@ jobs:
         uses: ruby/setup-ruby@89f90524b88a01fe6e0b732220432cc6142926af
         with:
           ruby-version: 2.6.10
+          bundler-cache: true
       - name: Checks
-        run: |
-          gem install awesome_bot
-          awesome_bot --allow-redirect --request-delay 1 README.md
+        run: bundle exec awesome_bot --allow-redirect --request-delay 1 README.md
