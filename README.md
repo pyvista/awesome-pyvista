@@ -64,6 +64,7 @@ Contributions _very welcome_; please keep submissions aligned with the [Awesome 
 
 ## Finite Elements
 
+- [EasyFEA](https://github.com/matnoel/EasyFEA) – EasyFEA is a user-friendly Python library that simplifies finite element analysis.
 - [FElupe](https://github.com/adtzlr/felupe) – finite element analysis for continuum mechanics of solid bodies.
 - [fenics-sz](https://github.com/cianwilson/fenics-sz) – Jupyter Book for modeling subduction zones using FEniCSx finite element library.
 - [PyMAPDL](https://github.com/ansys/pymapdl) – Pythonic interface to Ansys MAPDL for finite element analysis.
