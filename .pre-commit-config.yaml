@@ -4,7 +4,7 @@ ci:
   autoupdate_schedule: weekly
 repos:
   - repo: https://github.com/python-jsonschema/check-jsonschema
-    rev: 0.37.3
+    rev: 0.37.4
     hooks:
       - id: check-github-workflows
   - repo: https://github.com/codespell-project/codespell
@@ -13,7 +13,7 @@ repos:
       - id: codespell
         args: ["-L", "socio-economic"]
   - repo: https://github.com/rbubley/mirrors-prettier
-    rev: v3.9.1
+    rev: v3.9.4
     hooks:
       - id: prettier
         types_or: [yaml, markdown, html, css, scss, javascript, json]
