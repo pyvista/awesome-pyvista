@@ -20,7 +20,12 @@ Contributions _very welcome_; please keep submissions aligned with the [Awesome 
 	<sub>PyVista is proudly supported by our commercial steward CoDimensional PBC:</sub>
 	<br>
 	<br>
-	<a href="https://codimensional.com/"><img width="400" src="assets/codim.png" alt="CoDim logo"></a>
+	<a href="https://codimensional.com/">
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="assets/codim-dark.png">
+			<img width="400" src="assets/codim.png" alt="CoDim logo">
+		</picture>
+	</a>
 	<br>
 	<br>
 	<b>CoDim is where teams explore 3D data together.</b>
