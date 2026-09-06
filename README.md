@@ -136,6 +136,7 @@ Contributions _very welcome_; please keep submissions aligned with the [Awesome 
 - [pyransame](https://github.com/MatthewFlamm/pyransame) – Random sampling of points on PyVista meshes (cells, surfaces, and volumes).
 - [pyvista-manifold](https://github.com/pyvista/pyvista-manifold) – PyVista accessor for Manifold providing fast and reliable boolean / CSG operations.
 - [pyvista-trimesh](https://github.com/pyvista/pyvista-trimesh) – PyVista accessor for Trimesh exposing point-in-mesh, signed distance, proximity, surface sampling, voxelization, ICP, repair, and smoothing as `mesh.trimesh.<op>`.
+- [pyvista-trueform](https://github.com/polydera/pyvista-trueform) – PyVista accessor for trueform providing exact mesh booleans, intersection curves, self-intersection repair, isocontours, and N-ary CSG as `mesh.trueform.<op>`.
 
 ## Point Clouds
 
