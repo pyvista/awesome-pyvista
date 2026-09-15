@@ -22,8 +22,8 @@ Contributions _very welcome_; please keep submissions aligned with the [Awesome 
 	<br>
 	<a href="https://codimensional.com/">
 		<picture>
-			<source media="(prefers-color-scheme: dark)" srcset="assets/codim-dark.png">
-			<img width="400" src="assets/codim.png" alt="CoDim logo">
+			<source media="(prefers-color-scheme: dark)" srcset="https://codimensional.com/partners/pyvista-codim-banner-dark.png">
+			<img width="516" src="https://codimensional.com/partners/pyvista-codim-banner-light.png" alt="PyVista and CoDimensional">
 		</picture>
 	</a>
 	<br>
@@ -56,6 +56,7 @@ Contributions _very welcome_; please keep submissions aligned with the [Awesome 
 - [Mesh Processing](#mesh-processing)
 - [Point Clouds](#point-clouds)
 - [Related Topics](#related-topics)
+- [Rendering](#rendering)
 - [Testing](#testing)
 - [Web](#web)
 
@@ -145,6 +146,10 @@ Contributions _very welcome_; please keep submissions aligned with the [Awesome 
 
 - [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) – Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome.
 - [Awesome VTK](https://github.com/tkoyama010/awesome-vtk) – A curated list of awesome stuff related to VTK .
+
+## Rendering
+
+- [pyvista-render-passes](https://github.com/codimensional/pyvista-render-passes) – SSAA, SSAO, EDL, depth peeling and shadows for PyVista, composed in the one order that works.
 
 ## Testing
 
