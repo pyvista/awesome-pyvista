@@ -21,4 +21,4 @@ jobs:
           ruby-version: 2.6.10
           bundler-cache: true
       - name: Checks
-        run: bundle exec awesome_bot --allow-redirect --request-delay 1 README.md
+        run: bundle exec awesome_bot --allow-redirect --request-delay 1 --whitelist "https://github.com/pyvista/pyvista/blob,https://github.com/sindresorhus/awesome/blob" README.md
