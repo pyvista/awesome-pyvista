@@ -16,9 +16,9 @@ jobs:
         with:
           persist-credentials: false
       - name: Set up Ruby 2.6
-        uses: ruby/setup-ruby@a0102e0972be65f351c307e2d64b9314a57c8073
+        uses: ruby/setup-ruby@14594264cd68ce8a2345dd349bc3d138a4ef85c8
         with:
           ruby-version: 2.6.10
           bundler-cache: true
       - name: Checks
-        run: bundle exec awesome_bot --allow-redirect --request-delay 1 README.md
+        run: bundle exec awesome_bot --allow-redirect --request-delay 1 -w pyvista/pyvista/blob,sindresorhus/awesome/blob README.md
