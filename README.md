@@ -85,7 +85,7 @@ Contributions _very welcome_; please keep submissions aligned with the [Awesome 
 ## File I/O
 
 - [pyiges](https://github.com/pyvista/pyiges) – Python IGES reader.
-- [pyvista-cad](https://github.com/pyvista/pyvista-cad) – The canonical CAD interop and plotting layer for PyVista.
+- [pyvista-cad](https://github.com/codimensional/pyvista-cad) – The canonical CAD interop and plotting layer for PyVista.
 - [pyvista-miniply](https://github.com/pyvista/pyvista-miniply) – Wrapper over the excellent and fast miniply to read PLY files; registers as a PyVista file IO extension.
 - [pyvista-stl](https://github.com/pyvista/pyvista-stl) – Fast STL file reader registered as a PyVista file IO extension.
 - [pyvista-zstd](https://github.com/pyvista/pyvista-zstd) - Ultra fast IO by compressing PyVista datasets using zstandard.
